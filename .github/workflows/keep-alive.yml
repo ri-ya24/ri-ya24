@@ -1,0 +1,30 @@
+name: Keep Streak Alive
+
+on:
+  schedule:
+    # Roz raat 12:30 baje India time (UTC 19:00) chalega
+    - cron: "0 19 * * *"
+  workflow_dispatch:
+
+jobs:
+  keep-alive:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Update Timestamp
+        run: |
+          echo "Last updated: $(date)" > .last-updated
+          
+      - name: Commit and Push
+        run: |
+          git config --global user.name "ri-ya24"
+          git config --global user.email "riya.singh240206@gmail.com"
+          git add .last-updated
+          git diff --staged --quiet || git commit -m "🔥 Keeping streak alive - $(date +'%Y-%m-%d')"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
