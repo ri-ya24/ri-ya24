@@ -121,17 +121,11 @@ philosophy: >
 <!-- 📊 STATS SECTION -->
 ## 📊 GitHub Stats
 
-<div align="center">
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ri-ya24&theme=radical)
 
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ri-ya24&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F472B6&icon_color=06B6D4&text_color=F5F5F5)
-<br/>
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ri-ya24&theme=radical)
 
-<div align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=ri-ya24&hide_border=true&background=0D1117&stroke=C084FC&ring=F472B6&fire=06B6D4&currStreakLabel=F472B6&sideNums=F5F5F5&sideLabels=C084FC&dates=94A3B8&currStreakNum=F5F5F5&dayLabels=06B6D4" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:c084fc,100:f472b6&height=3&section=header" width="100%" />
-
+![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ri-ya24&theme=radical)
 <!-- 📈 GRAPH SECTION -->
 ## 📈 Contribution Graph
 
