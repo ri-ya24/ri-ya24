@@ -1,11 +1,12 @@
-<!-- ═══════════════════════ TOP HEADER ═══════════════════════ -->
-<!-- 🖼️ HEADER IMAGE — Baad me add karenge -->
-<!-- ═══════════════════════ TOP HEADER ═══════════════════════ -->
-<!-- 🖼️ HEADER IMAGE — Baad me add karenge -->
 
 <div align="center">
-  
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1500&color=F472B6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=180&lines=Hi%2C+I'm+Riya+Singh+%F0%9F%91%8B;Data+%26+Business+Analyst;Curious+Learner+%7C+Turning+Data+into+Insights;Exploring+Data+%7C+Business+%7C+AI" alt="Typing SVG" />
+
+![wave](https://capsule-render.vercel.app/api?type=waving&color=0:FF9EC4,100:5EC8E8&height=180&section=header)
+
+### Hi, I'm Riya Singh 👋
+### Data & Business Analyst
+**Curious Learner | Turning Data into Insights**
+**Exploring Data | Business | AI**
 
 </div>
 
@@ -121,12 +122,18 @@ philosophy: >
 <!-- 📊 STATS SECTION -->
 ## 📊 GitHub Stats
 
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ri-ya24&theme=radical)
+<div align="center">
 
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ri-ya24&theme=radical)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ri-ya24&theme=radical" width="600" />
 
-![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ri-ya24&theme=radical)
+<br/>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ri-ya24&theme=radical" width="380" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ri-ya24&theme=radical" width="380" />
+
+</div>
 <!-- 📈 GRAPH SECTION -->
+
 ## 📈 Contribution Graph
 
 <div align="center">
