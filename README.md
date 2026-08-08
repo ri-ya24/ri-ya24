@@ -122,8 +122,15 @@ philosophy: >
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ri-ya24&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F472B6&icon_color=06B6D4&text_color=F5F5F5&ring_color=C084FC" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ri-ya24&layout=compact&hide_border=true&bg_color=0D1117&title_color=F472B6&text_color=F5F5F5&langs_count=6" />
+
+<a href="https://github.com/ri-ya24">
+  <img height="180" alt="Riya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ri-ya24&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F472B6&icon_color=06B6D4&text_color=F5F5F5&ring_color=C084FC&count_private=true" />
+</a>
+
+<a href="https://github.com/ri-ya24">
+  <img height="180" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ri-ya24&layout=compact&hide_border=true&bg_color=0D1117&title_color=F472B6&text_color=F5F5F5&langs_count=6" />
+</a>
+
 </div>
 
 <br/>
