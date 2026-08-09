@@ -14,7 +14,7 @@
 
 </div>
 
-<!-- 🌸 ABOUT ME SECTION -->
+<!--  ABOUT ME SECTION -->
 
 ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnN6eDlrZWl0aGo3ODNpM3FhajFwZXdyZHBmaWtyeG5jaHVjbDN5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GAXXHdS0zXawVLOJLY/giphy.gif" width="40"> About Me
 
@@ -72,7 +72,7 @@ philosophy: >
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:c084fc,100:f472b6&height=3&section=header" width="100%" />
 
 <!-- 🛠️ TECH STACK SECTION -->
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjNrbXRlcWljc3c4M3ZlZWx1MzFieHVwdTFiMW5tc2V6ZmtuYWFqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="400" />
@@ -108,7 +108,7 @@ philosophy: >
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:c084fc,100:f472b6&height=3&section=header" width="100%" />
 
 <!-- 💡 WHAT I LOVE SECTION -->
-## 💡 What I Love Working On
+## What I Love Working On
 
 | | |
 |:---|:---|
@@ -122,7 +122,7 @@ philosophy: >
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:f472b6,50:c084fc,100:06b6d4&height=3&section=header" width="100%" />
 
 <!-- 📊 STATS SECTION -->
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -136,7 +136,7 @@ philosophy: >
 </div>
 <!-- 📈 GRAPH SECTION -->
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 <div align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ri-ya24&bg_color=0d1117&color=f472b6&line=06b6d4&point=c084fc&area=true&hide_border=true&title_color=f472b6&area_color=f472b6" />
@@ -145,7 +145,7 @@ philosophy: >
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:f472b6,50:c084fc,100:06b6d4&height=3&section=header" width="300%" />
 
 <!-- 🐍 SNAKE SECTION -->
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <div align="center">
   <img alt="snake animation" src="https://raw.githubusercontent.com/ri-ya24/ri-ya24/output/github-snake-dark.svg" width="98%" />
@@ -153,8 +153,21 @@ philosophy: >
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:c084fc,100:f472b6&height=3&section=header" width="100%" />
 
+
+---
+
+##  My GitHub Activity
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ri-ya24&theme=radical&hide_border=true)
+
+</div>
+
+---
+
 <!-- 💼 CURRENTLY WORKING ON -->
-## 💼 What I'm Currently Working On
+##  What I'm Currently Working On
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGUwM2JqeDd3bjBiZm8zOG1udXFyNnJtdmxzaTMzeTdqdnhuYXkzMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LDq2GbcTDmT83L1r3X/giphy.gif"  />
@@ -182,7 +195,7 @@ open_to:
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:f472b6,50:c084fc,100:06b6d4&height=3&section=header" width="100%" />
 
 <!-- ✨ QUOTE SECTION -->
-## ✨ A Thought I Live By
+##  A Thought I Live By
 
 <div align="center">
 
@@ -195,7 +208,7 @@ open_to:
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:c084fc,100:f472b6&height=3&section=header" width="100%" />
 
 <!-- 🤝 CONNECT SECTION -->
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
