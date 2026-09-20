@@ -10,7 +10,7 @@
   
 <a href="https://www.linkedin.com/in/riya-singh-1696b7363/"><img src="https://img.shields.io/badge/LinkedIn-Riya%20Singh-06B6D4?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:riya.singh240206@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact%20Me-F472B6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=ri-ya24&label=Profile%20Views&color=c084fc&style=for-the-badge" />
+
 
 </div>
 
@@ -134,17 +134,7 @@ philosophy: >
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ri-ya24&theme=radical" width="380" />
 
 </div>
-<!-- 📈 GRAPH SECTION -->
 
-##  Contribution Graph
-
-<div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ri-ya24&bg_color=0d1117&color=f472b6&line=06b6d4&point=c084fc&area=true&hide_border=true&title_color=f472b6&area_color=f472b6" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f472b6,50:c084fc,100:06b6d4&height=3&section=header" width="300%" />
-
-<!-- 🐍 SNAKE SECTION -->
 ##  Contribution Snake
 
 <div align="center">
@@ -152,17 +142,6 @@ philosophy: >
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:c084fc,100:f472b6&height=3&section=header" width="100%" />
-
-
----
-
-##  My GitHub Activity
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=ri-ya24&theme=radical&hide_border=true)
-
-</div>
 
 ---
 
